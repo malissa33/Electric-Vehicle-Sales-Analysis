@@ -16,7 +16,7 @@ During the initial 7 days (Oct 10 - Oct 16, 2016), we moved a total of 107 units
 On October 20, 2016, Corpel automobiles saw a cumulative sales volume of 6 units in the last 7 days, with details sourced from our SQL records.
 The peak sales day was June 8, 2018, with 49 units sold, as confirmed through SQL analysis.
 📧 Email Insights:
-
+<p>>1)</p>
 The email subject "Save the Planet with some Holiday Savings" garnered the highest open count, with a staggering 9,415 opens, as documented in our SQL-generated email metrics.
 Customer 25031 took the crown for opening the most emails, with a remarkable 10 opens, a fact captured through SQL data extraction.
 On average, customers took around 418.30 days to make their second purchase, a statistic derived from our SQL analysis.
