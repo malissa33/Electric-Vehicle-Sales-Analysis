@@ -9,8 +9,8 @@ In 2016, Sprint Scooter model raked in a whopping $56.25 million, accounting for
 <br><br>
 
 📈 Sales Highlights:<br>
-<li>July 2016 witnessed our highest monthly sales revenue, soaring to $9.3 million.</li>
-<li>Our very first Sprint Scooter was sold on October 10, 2016, starting at $95,998. </li>
+<li>July 2016 witnessed the highest monthly sales revenue, soaring to $9.3 million.</li>
+<li>The very first Sprint Scooter was sold on October 10, 2016, starting at $95,998. </li>
 <li>During the initial 7 days (Oct 10 - Oct 16, 2016), we moved a total of 107 units</li>
 <li>On October 20, 2016, Corpel automobiles saw a cumulative sales volume of 6 units in the last 7 days</li>
 <li>The peak sales day was June 8, 2018, with 49 units sold.</li>
