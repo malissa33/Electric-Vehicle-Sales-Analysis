@@ -5,7 +5,7 @@
 In this project, I have unearthed invaluable insights that can help in business growth , utilizing SQL for robust data analysis. Here's a quick overview of what i have achieved:
 
 💰 Revenue Breakdown:<br>
-In 2016, our Sprint Scooter model raked in a whopping $56.25 million, accounting for 30.3% of all electric vehicle scooter sales.
+In 2016, Sprint Scooter model raked in a whopping $56.25 million, accounting for 30.3% of all electric vehicle scooter sales.
 <br><br>
 
 📈 Sales Highlights:<br>
