@@ -29,6 +29,7 @@ In 2016, Sprint Scooter model raked in a whopping $56.25 million, accounting for
 📫 Email Metrics:<br>
 <li>Calculated bounce rates for each email subject, focusing on emails sent to customers who made a purchase</li>
 <li>Determined the click-through rates (CTR) for the top 2 email advertisement subjects, with "25% off all EVs. It's a Christmas Time"  with the highest CTR at 2.39%</li>
-<li>This comprehensive project has equipped us with actionable insights to propel our business to new heights, all backed by the power of SQL data analysis. </li>
+<br><br>
+<li>This comprehensive project has equipped with actionable insights to propel the business to new heights, all backed by the power of SQL data analysis. </li>
 <br><br>
   🚗💼💡 Please refer to the attached SQL file for the code sections related to data analysis.<br>
