@@ -4,10 +4,6 @@
 
 In this project, I have unearthed invaluable insights that can help in business growth , utilizing SQL for robust data analysis. Here's a quick overview of what i have achieved
 
-SQL Schema <br>
-
-![image](https://github.com/malissa33/Electric-Vehicle-Sales-Analysis/assets/173600940/0df862b0-9be6-4ff0-8fbb-83bd0d068b78)
-
 
 <br>
 
