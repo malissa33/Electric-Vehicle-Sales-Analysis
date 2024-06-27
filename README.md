@@ -33,3 +33,12 @@ In 2016, Sprint Scooter model raked in a whopping $56.25 million, accounting for
 <li>This comprehensive project has equipped with actionable insights to propel the business to new heights, all backed by the power of SQL data analysis. </li>
 <br><br>
   🚗💼💡 Please refer to the attached SQL file for the code sections related to data analysis.<br>
+
+
+📈CONCLUSION FROM THE INSIGHTS GENERATES:<br>
+<li>Company should consider investing in sprint scooter model because it’s the top product model since it has generated maximum revenue for the company and consider investing in its premium launches…</li>
+<li>Plan marketing campaigns on peak sales month like September</li>
+<li>Continue to engage with good email subject lines to attract for better customer engagement to get more CTR..</li>
+<li>Work on strategies to reduce the time between first and second purchase.</li>
+
+<br><br>
